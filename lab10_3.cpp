@@ -10,7 +10,6 @@ using namespace std;
 int main()
 
 {
-
         int count = 0;
 
         float sum = 0.00;
